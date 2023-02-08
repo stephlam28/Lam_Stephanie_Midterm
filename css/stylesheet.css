@@ -12,8 +12,13 @@ h2 {
     
 }
 
-h3 {
+.summer{
     color: #FF686B;
+    font-size: 24px;
+}
+
+.winter{
+    color: #6A8EAE;
     font-size: 24px;
 }
 
