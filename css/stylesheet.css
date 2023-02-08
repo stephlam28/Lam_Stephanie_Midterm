@@ -1,0 +1,27 @@
+body {
+    background-color: #EDE3E9;
+}
+
+h1 { 
+    text-align: center;
+    color: #6D3B47;
+}
+
+h2 {
+    text-align: center;
+    
+}
+
+.summer{
+    color: #FF686B;
+    font-size: 24px;
+}
+
+.winter{
+    color: #6A8EAE;
+    font-size: 24px;
+}
+
+p {
+    font-size:18px;
+}
